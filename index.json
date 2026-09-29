@@ -1,0 +1,15 @@
+{
+  "repo": "kotmartovskiy/Lan-discovery-modules",
+  "branch": "main",
+  "updated": "26.09.2026",
+  "modules": [
+    {
+      "id": "demo-week",
+      "name": "Обзор недели",
+      "description": "Демо-блок из каталога: простой информационный блок во вкладке «Курсы валют и металлов». Для проверки установки модулей из удалённого репозитория.",
+      "type": "block",
+      "slot": "currencies",
+      "version": "1.0.0"
+    }
+  ]
+}

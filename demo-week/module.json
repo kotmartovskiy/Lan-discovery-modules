@@ -1,0 +1,10 @@
+{
+  "id": "demo-week",
+  "name": "Обзор недели",
+  "description": "Демо-блок из каталога: информационный блок во вкладке «Курсы валют и металлов»",
+  "builtin": false,
+  "type": "block",
+  "block": {"slot": "currencies", "order": 60, "title": "Обзор недели"},
+  "help": false,
+  "prefixes": []
+}
